@@ -28,5 +28,5 @@ FLASK_APP=src/app.py flask run
 ### Tests
 
 ```shell
-pytest test_app.py
+pytest
 ```
